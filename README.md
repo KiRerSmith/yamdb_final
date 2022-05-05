@@ -1,4 +1,4 @@
-# YaMDb API
+# YaMDb API ![example workflow](https://github.com/KiRerSmith/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 ##### В этом проекте реализован API для небольшой социальной сети YaMDb. В YaMDb пользователи могут писать рецензии к различным произведениям (книги, музыка, фильмы и т.д.), а также оставлять к рецензиям комментарии. Сами произведения в YaMDb не хранятся.  
 
 ### Технологии:
